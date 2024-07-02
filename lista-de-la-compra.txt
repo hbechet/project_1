@@ -3,3 +3,6 @@
 - cebolla
 - sal
 - aceite de oliva
+- tomates
+- pepinos
+- ajos
