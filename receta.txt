@@ -3,4 +3,7 @@ Tortilla de patata
 1) Pelar las patatas
 2) Cortar cebolla
 3) Batir huevos
-4) ...
+
+
+Paso 1: Freir las papas.
+Paso 2: Mezclar cebolla con patata.
